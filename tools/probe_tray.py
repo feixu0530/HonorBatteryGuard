@@ -1,3 +1,7 @@
+# HonorBatteryGuard — 工具脚本（构建 / 测试 / 探针）
+# Copyright (c) 2026 feixu0530
+# SPDX-License-Identifier: MIT
+# 基于 MIT 协议开源；复制/修改/分发须保留版权与许可声明（注明出处）。
 """诊断 pystray 是否真的向 Shell 添加了托盘图标（拦截 Shell_NotifyIcon 返回值）。"""
 from __future__ import annotations
 

@@ -1,3 +1,7 @@
+# HonorBatteryGuard — 工具脚本（构建 / 测试 / 探针）
+# Copyright (c) 2026 feixu0530
+# SPDX-License-Identifier: MIT
+# 基于 MIT 协议开源；复制/修改/分发须保留版权与许可声明（注明出处）。
 """用 reference/电池.svg 渲染应用图标，输出 dev/HonorBatteryGuard.ico 与 .png。
 
 渲染链：svglib 解析 SVG -> reportlab 生成 PDF -> pypdfium2 光栅化 -> PIL 合成圆角底。

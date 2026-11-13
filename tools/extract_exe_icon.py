@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+# HonorBatteryGuard — 工具脚本（构建 / 测试 / 探针）
+# Copyright (c) 2026 feixu0530
+# SPDX-License-Identifier: MIT
+# 基于 MIT 协议开源；复制/修改/分发须保留版权与许可声明（注明出处）。
 """提取 exe 的关联/资源图标保存为 PNG，用于核对打包图标是否生效。"""
 import sys
 from pathlib import Path

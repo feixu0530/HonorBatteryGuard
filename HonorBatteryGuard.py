@@ -1,4 +1,10 @@
 # -*- coding: utf-8 -*-
+# HonorBatteryGuard — 独立控制荣耀电脑管家「电池安全管理」的单文件绿色工具
+# Copyright (c) 2026 feixu0530
+# SPDX-License-Identifier: MIT
+#
+# 本程序基于 MIT 协议开源发布。在复制、修改或分发本软件时，须保留上述
+# 版权声明与本许可声明（即「注明出处」）。完整条款见仓库根目录 LICENSE 文件。
 """
 HONOR 电池安全管理 · 独立控制工具（原生单文件 exe）
 

@@ -1,3 +1,7 @@
+# HonorBatteryGuard — 工具脚本（构建 / 测试 / 探针）
+# Copyright (c) 2026 feixu0530
+# SPDX-License-Identifier: MIT
+# 基于 MIT 协议开源；复制/修改/分发须保留版权与许可声明（注明出处）。
 """端到端实测托盘守护：模拟「阈值被改偏」，验证 exe 自动恢复。
 
 步骤：

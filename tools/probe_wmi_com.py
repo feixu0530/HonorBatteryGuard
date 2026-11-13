@@ -1,3 +1,7 @@
+# HonorBatteryGuard — 工具脚本（构建 / 测试 / 探针）
+# Copyright (c) 2026 feixu0530
+# SPDX-License-Identifier: MIT
+# 基于 MIT 协议开源；复制/修改/分发须保留版权与许可声明（注明出处）。
 """只读探针：验证 Python/win32com 能否直接调用 root\\wmi OemWMIMethod.OemWMIfun。
 
 仅下发 \\GBTT (0x1103) 读取命令，不写 EC。

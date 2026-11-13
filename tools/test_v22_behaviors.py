@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+# HonorBatteryGuard — 工具脚本（构建 / 测试 / 探针）
+# Copyright (c) 2026 feixu0530
+# SPDX-License-Identifier: MIT
+# 基于 MIT 协议开源；复制/修改/分发须保留版权与许可声明（注明出处）。
 """v2.2.0 回归：关闭窗口两种行为 + 托盘菜单动态勾选状态。"""
 from __future__ import annotations
 

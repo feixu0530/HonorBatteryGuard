@@ -1,3 +1,7 @@
+# HonorBatteryGuard — 工具脚本（构建 / 测试 / 探针）
+# Copyright (c) 2026 feixu0530
+# SPDX-License-Identifier: MIT
+# 基于 MIT 协议开源；复制/修改/分发须保留版权与许可声明（注明出处）。
 """实测趋势验证判定（60 秒 / 12 次采样），验证「容量自然下降仍判 PASS」的修正。"""
 import json
 import sys

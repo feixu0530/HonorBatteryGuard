@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+# HonorBatteryGuard — 工具脚本（构建 / 测试 / 探针）
+# Copyright (c) 2026 feixu0530
+# SPDX-License-Identifier: MIT
+# 基于 MIT 协议开源；复制/修改/分发须保留版权与许可声明（注明出处）。
 """启动 v2.2 exe，截窗口图 + 托盘区域图，验证图标/按钮/文案改动。"""
 import subprocess
 import time
