@@ -1,0 +1,28 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# ---- 构建产物 ----
+build/
+dist/
+*.spec
+temp/
+
+# ---- 运行时生成（用户机器上产生，不入库） ----
+HonorBatteryGuard.json
+*.log
+battery-report-*.html
+
+# ---- 操作系统 / 编辑器 ----
+.DS_Store
+Thumbs.db
+*.swp
+
+# ---- WorkBuddy 项目数据 ----
+.workbuddy/
+
+# ---- 注意：releases/HonorBatteryGuard.exe 是交付物，故意不忽略 ----
